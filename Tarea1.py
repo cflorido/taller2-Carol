@@ -1,6 +1,12 @@
 
 from typing import List
 
+#FUNCION NATALIA:
+def natalia():
+    print("Hola, soy Natalia y esta es mi función")
+    print("Esta es la mejor funcion de esta entrega")
+
+
 #FUNCIONES
 def sumarDiagonal(matriz: List[List[int]])-> int:
     suma = 0  #C1
