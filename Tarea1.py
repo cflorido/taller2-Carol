@@ -23,9 +23,10 @@ matriz = [
     [7, 8, 9]
 ]
 
-entero = 10
+entero = 9
 
 #PRUEBA
+print("---------Tarea 1---------")
 print("La suma de la diagonal principal es:", sumarDiagonal(matriz))
 print("¿El numero ", entero, "se encuentra en la matriz?", revisarEntero(matriz, entero))
 
