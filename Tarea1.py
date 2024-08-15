@@ -27,7 +27,7 @@ entero = 9
 
 #PRUEBA
 print("---------Tarea 1---------")
-print("Realizado por: Carol Florido")
+print("Realizado por: Carol Florido - 202111430")
 print("La suma de la diagonal principal es:", sumarDiagonal(matriz))
 print("¿El numero ", entero, "se encuentra en la matriz?", revisarEntero(matriz, entero))
 
